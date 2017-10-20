@@ -13,6 +13,6 @@ public void test1(){
 
 public void test2(){
 
-
+    Date date = new Date();
 
 }
