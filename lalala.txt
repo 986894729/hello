@@ -6,7 +6,7 @@ asdf asdfasdfavggf
 132132132
 sddfasdf
 public void test1(){
-
+  Date date = new Date();
 
 
 }
