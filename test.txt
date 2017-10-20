@@ -1,7 +1,1 @@
 this is my first file of my github project in github
-冲突1
-
-这里是冲突1
-
-又来了一个冲突1
-a
