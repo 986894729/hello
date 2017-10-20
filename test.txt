@@ -1,2 +1,6 @@
 this is my first file of my github project in github
+<<<<<<< HEAD
 再来一个冲突3
+=======
+冲突3
+>>>>>>> 1bc64306e910a609dc684555c0fd25f0993f7d64
